@@ -19,17 +19,17 @@ TSOBTC DAES program is focused on creating a base curriculum creating the underl
 [What's the proposed solution? (the cryptoeconomic flow chart from TSOBTC's Whitepaper 2.0)]
 
 TSOBTC is committed to a transparent process for creating this DAES Conceptual Design (CD). Each GitHub issue will cover all of the information needed to populate the CD metadata for TSOBTC's DAES. You can follow the same process for your own DAES's conceptual design.
-- Project Tracker: Curriculum DAO Concept Design (https://github.com/orgs/TheSchoolofBitcoin/projects/1)
-- b0mission: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/3
-- b1community: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/4
-- b2media: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/5
-- b3now: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/6
-- b4portfolio: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/7
-- b5essay: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/8
-- b6story: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/9
-- b7learn: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/10
-- b8play: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/11
-- b9journal: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/12
+- Project Tracker: Curriculum DAO Concept Design (https://github.com/orgs/TheSchoolofBitcoin/projects/2)
+- b0mission: https://github.com/TheSchoolofBitcoin/DAES_CD/issues/1
+- b1community: https://github.com/TheSchoolofBitcoin/DAES_CD/issues/2
+- b2media: https://github.com/TheSchoolofBitcoin/DAES_CD/issues/3
+- b3now: https://github.com/TheSchoolofBitcoin/DAES_CD/issues/4
+- b4portfolio: https://github.com/TheSchoolofBitcoin/DAES_CD/issues/5
+- b5essay: https://github.com/TheSchoolofBitcoin/DAES_CD/issues/6
+- b6story: https://github.com/TheSchoolofBitcoin/DAES_CD/issues/7
+- b7learn: https://github.com/TheSchoolofBitcoin/DAES_CD/issues/8
+- b8play: https://github.com/TheSchoolofBitcoin/DAES_CD/issues/9
+- b9journal: https://github.com/TheSchoolofBitcoin/DAES_CD/issues/10
 
 ### End Result
 After working through each of these issues, we will have a Stacks NFT Minting dApp that allows people to mint the NFT associated with this course designed by a member from the bitcoin.design community. The metadata below represents the NFT's proof-of-work.
@@ -38,7 +38,7 @@ After working through each of these issues, we will have a Stacks NFT Minting dA
 bitEntryProgram: {
   ourStoryRecordStore:               "432API",
   bioMemeticOrganization:            "The School of Bitcoin",
-  longPlay:                          "Stacks Australia/New Zealand",
+  longPlay:                          "The School of Bitcoin Pool?",
   b0mission: {
     groove:                          "gr0ourSource",
     projectFocus:                    "goals",
