@@ -5,6 +5,60 @@
 (Still in development) Fork this repository to create a conceptual design for your own Decentralized Autonomous Education System.
 ```
 
+### Intro
+0.0 Abstract
+0.1 Project Definition
+0.2 Communities
+0.3 Teams
+
+### Operations
+1.0 Executive Summary
+1.1 People
+1.2 Processes
+1.3 Projects
+
+### Design
+2.0 Brand Guidelines
+2.1 Responsibilities
+2.2 Deliverables
+2.3 Drawings & Specifications
+
+### Marketing
+3.0 Scope Management
+3.1 Risk Management
+3.2 Default Conditions
+3.3 Content Strategy
+
+### Sales
+4.0 Proposals
+4.1 Contracts
+4.2 Schedule
+4.3 Budget
+
+### Communications
+5.0 Blog
+5.1 Assumptions
+5.2 Research & Development
+5.3 Case Studies
+
+### Brand Story
+6.0 Visualizations
+6.1 Storyboard
+6.2 Logistics Plan
+6.3 Modeling
+
+### Training
+7.0 Documentation
+7.1 Public Tutorials
+7.2 Individual Tutorials
+7.3 Cohort Based Tutorials
+
+### Culture
+8.0 Technology
+8.1 Protocol
+8.2 Purpose
+8.3 Play
+
 The School of Bitcoin is creating Decentralized Autonomous Education System (DAES) centered around financial literacy. The path to creating TSOBTC's DAES will be marked by the project based learning subDAOs that the community creates (curriculumDAOs). You can think of TSOBTC DAES as a organism/universe and each curriculumDAO as an organ/galaxy.
 
 TSOBTC DAES program is focused on creating a base curriculum creating the underlying cryptoeconomic system that connects the DAOs and subDAOs within the DAES ecosystem. 
